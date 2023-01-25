@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AvoidScreenRecordAndTakeScheenshot</string>
+    <string name="welcome_to_paparazzi_apps">Bienvenido a PaparazziApps</string>
+    <string name="description">Esta aplicación fue desarrollada con fines educativos y dar a conocer la detección de vulnerabilidades, defectos y seguridades de las aplicaciones móviles</string>
+</resources>
